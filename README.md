@@ -7,5 +7,5 @@ newline newline
 
 feature 2{
 
-    
+    delete this
 }
