@@ -4,8 +4,3 @@ test
 newline
 
 newline newline
-
-feature 1{
-
-    
-}
